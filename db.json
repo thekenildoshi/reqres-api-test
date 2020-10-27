@@ -1,5 +1,6 @@
 {
-  "serialNumber": 292020009101800300,
+{
+  "serialNumber": 292020009101800344,
   "osVersion": "0.0.16",
   "appVersion": "0.0.36",
   "upsDbVersion": "40.5.0",
@@ -8,13 +9,11 @@
   "manufature": "Samsung",
   "pimsDbVersion": "",
   "settingsDbVersion": "",
-  "probe": [
-    {
-      "type": "Curse|Linear",
-      "serialNumber": "ProbeUsb01",
-      "partNumber": "",
-      "probeVersion": "1.0.0",
-      "lastConnectedTime": 9999999999
-    }
-  ]
+  "probe": {
+    "type": "Curse|Linear",
+    "serialNumber": "ProbeUsb01",
+    "partNumber": "",
+    "probeVersion": "1.0.0",
+    "lastConnectedTime": 9999999999
+  }
 }
